@@ -1,0 +1,14 @@
+C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Source\Main.cpp;C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Build\CanvasGLv3.dir\Release\Main.obj
+C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Source\Global.cpp;C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Build\CanvasGLv3.dir\Release\Global.obj
+C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Source\Canvas\Camera.cpp;C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Build\CanvasGLv3.dir\Release\Camera.obj
+C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Source\Canvas\Canvas.cpp;C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Build\CanvasGLv3.dir\Release\Canvas.obj
+C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Source\Canvas\Color.cpp;C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Build\CanvasGLv3.dir\Release\Color.obj
+C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Source\Canvas\Coord.cpp;C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Build\CanvasGLv3.dir\Release\Coord.obj
+C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Source\Canvas\Drawer.cpp;C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Build\CanvasGLv3.dir\Release\Drawer.obj
+C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Source\Canvas\Util.cpp;C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Build\CanvasGLv3.dir\Release\Util.obj
+C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Source\Drawables\CCircle.cpp;C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Build\CanvasGLv3.dir\Release\CCircle.obj
+C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Source\Drawables\CDot.cpp;C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Build\CanvasGLv3.dir\Release\CDot.obj
+C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Source\Drawables\CLine.cpp;C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Build\CanvasGLv3.dir\Release\CLine.obj
+C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Source\Drawables\CObject.cpp;C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Build\CanvasGLv3.dir\Release\CObject.obj
+C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Source\Drawables\CRectangle.cpp;C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Build\CanvasGLv3.dir\Release\CRectangle.obj
+C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Source\Drawables\CTriangle.cpp;C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Build\CanvasGLv3.dir\Release\CTriangle.obj

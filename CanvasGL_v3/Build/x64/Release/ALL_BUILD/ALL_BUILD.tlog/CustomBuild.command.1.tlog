@@ -1,0 +1,10 @@
+^C:\USERS\HUGO_\DOWNLOADS\CANVASGL-3.0-MASTER\CANVASGL_V3\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/hugo_/Downloads/CanvasGL-3.0-master/CanvasGL_v3 -BC:/Users/hugo_/Downloads/CanvasGL-3.0-master/CanvasGL_v3/Build --check-stamp-file C:/Users/hugo_/Downloads/CanvasGL-3.0-master/CanvasGL_v3/Build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

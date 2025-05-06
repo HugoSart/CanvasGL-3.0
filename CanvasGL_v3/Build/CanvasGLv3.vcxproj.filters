@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Source\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Source\Global.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Source\Canvas\Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Source\Canvas\Canvas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Source\Canvas\Color.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Source\Canvas\Coord.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Source\Canvas\Drawer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Source\Canvas\Util.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Source\Drawables\CCircle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Source\Drawables\CDot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Source\Drawables\CLine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Source\Drawables\CObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Source\Drawables\CRectangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\Source\Drawables\CTriangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\hugo_\Downloads\CanvasGL-3.0-master\CanvasGL_v3\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BAD1B2E3-54B5-3CD8-A623-EFF13E7DC0B1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
